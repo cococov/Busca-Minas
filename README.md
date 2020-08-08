@@ -1,15 +1,10 @@
-# Busca Minas
+# Minesweeper
 
-### Links
+## Links
 
----
-
-[Repositorio](https://github.com/cococov/Busca-Minas)<br/>
 [Flood fill algorithm](https://en.wikipedia.org/wiki/Flood_fill)
 
-### Technologies used
-
----
+## Technologies used
 
 + Languages:
   - Java
@@ -17,15 +12,11 @@
   - Swing
   - Canvas
 
-### Status
-
----
+## Status
 
 Finished. (2017)
 
-### Description
-
----
+## Description
 
 My first (programming) personal project.
 The game is basicaly a matrix that have a code in every cell:
@@ -52,7 +43,11 @@ To represent the matrix at the GUI, I use the ``canvas`` of ``java`` and ``java 
 For the images I used ``paint``.
 
 ## TODO 🚀
+
 - Rewrite the entire game, using my current knowledge and good practices.
+- Implement Flood fill algorithm
+
+## The Game
 
 ![main-minesweeper](https://juanlamas.dev/img/content/minesweeper/main.png "content")
       
